@@ -1,7 +1,16 @@
 # encoderRing
 Basic encoding program that has a sister program called, Decoder Ring.
 
-8/8/18 - Just starting a new project on Git to stay in touch with my 
+8/9/18
+Added encoderRing.py to respository. Just what I was able to make b/w 
+last night when I first created the repository and before I went to sleep. After some
+research I found out making your own file extension is as easy as coming up with a 
+three letter acronymn. It's not implemented yet, but I plan on messing around with that.
+
+Right now all the program does is create a new file to store the users encoding library/file.
+
+8/8/18
+Just starting a new project on Git to stay in touch with my 
 friends from a recent Python class at CSULA.
 
 Hello friends! 
